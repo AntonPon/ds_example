@@ -1,5 +1,5 @@
 # ds_example
-THe project consists implementation of Ex1, Ex3 and data analysis for Ex2. 
+The project consists of implementing Ex1, Ex3, and a notebook for data analysis for Ex2. 
 
 
 To start the project:
